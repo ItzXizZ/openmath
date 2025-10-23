@@ -1,11 +1,4 @@
 {
   "buildCommand": "next build",
-  "outputDirectory": ".next",
-  "redirects": [
-    {
-      "source": "/openmath",
-      "destination": "/",
-      "permanent": false
-    }
-  ]
+  "outputDirectory": ".next"
 }
